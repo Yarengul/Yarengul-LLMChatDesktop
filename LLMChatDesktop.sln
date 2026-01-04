@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LLMChatDesktop", "LLMChatDesktop\LLMChatDesktop.csproj", "{AE7F1B58-A805-4A32-98F8-7DAAC5209D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7F1B58-A805-4A32-98F8-7DAAC5209D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7F1B58-A805-4A32-98F8-7DAAC5209D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7F1B58-A805-4A32-98F8-7DAAC5209D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7F1B58-A805-4A32-98F8-7DAAC5209D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0AC8833-F7FC-4AD8-9D5F-95572FE6E4F0}
+	EndGlobalSection
+EndGlobal
